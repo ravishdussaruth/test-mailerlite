@@ -1,0 +1,5 @@
+2020/09/05 16:16:42 [emerg] 11#11: "proxy_pass" directive is duplicate in /etc/nginx/sites-available/app.conf:19
+2020/09/05 16:31:20 [emerg] 11#11: host not found in upstream "nuxtjs" in /etc/nginx/sites-available/app.conf:19
+2020/09/05 16:32:34 [emerg] 12#12: host not found in upstream "nuxtjs" in /etc/nginx/sites-available/app.conf:19
+2020/09/05 16:38:39 [emerg] 13#13: host not found in upstream "nuxtjs" in /etc/nginx/sites-available/app.conf:19
+2020/09/06 06:08:02 [emerg] 11#11: host not found in upstream "nuxtjs" in /etc/nginx/sites-available/app.conf:19
